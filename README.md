@@ -10,3 +10,7 @@ The model is a classification model based on the different classification algori
 # Dataset
 The dataset used for training and testing the model is provided by University of Southern Indiana, which conducted the study on this topic  to find risk of Breast cancer in women based on 30+ parameters. 
 
+# Result
+
+Logistic Regression Provided best accuracy at 0.9824561403508771 followed by SVM classification at 0.9766081871345029 
+while Naive Bayes had least accuracy among datasets at 0.9122807017543859
