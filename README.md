@@ -6,3 +6,6 @@ This repository contains the implementation of a machine learning model to predi
 # Model Architecture
 
 The model is a regression model based on the different regression algorithms. It uses the scikit-learn library to perform the regression analysis, and the model has been optimized using cross-validation to improve its accuracy.
+
+# Dataset
+The dataset used for training and testing the model is provided by University of Southern Indiana, which conducted the study on this topic  to find risk of Breast cancer in women based on 30+ parameters. 
